@@ -38,6 +38,11 @@ class Category {
       route: '/randomizer',
     ),
     Category(
+      title: 'General Tools',
+      icon: Icons.build,
+      route: '/general-tools',
+    ),
+    Category(
       title: 'System Utilities',
       icon: Icons.settings,
       route: '/system-utils',
